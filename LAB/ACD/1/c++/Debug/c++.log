@@ -1,0 +1,4 @@
+﻿  c++.cpp
+C:\Users\user\Documents\Лабы\асд\c++\c++\c++\c++.cpp(9,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Documents\Лабы\асд\c++\c++\c++\c++.cpp(10,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  c++.vcxproj -> C:\Users\user\Documents\Лабы\асд\c++\c++\Debug\c++.exe
