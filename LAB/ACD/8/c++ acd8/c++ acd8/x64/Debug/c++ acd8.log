@@ -1,0 +1,5 @@
+﻿  c++ acd8.cpp
+D:\code\Лабы\АСД\8\c++ acd8\c++ acd8\c++ acd8.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\code\Лабы\АСД\8\c++ acd8\c++ acd8\c++ acd8.cpp(31,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\code\Лабы\АСД\8\c++ acd8\c++ acd8\c++ acd8.cpp(81,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  c++ acd8.vcxproj -> D:\code\Лабы\АСД\8\c++ acd8\x64\Debug\c++ acd8.exe
