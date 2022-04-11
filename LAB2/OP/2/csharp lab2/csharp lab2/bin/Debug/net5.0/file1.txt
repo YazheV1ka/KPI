@@ -1,0 +1,4 @@
+Count of infos: 1
+Destination:kiev
+Departure time:09:00
+Arrival time:13:00
