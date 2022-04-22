@@ -1,0 +1,5 @@
+D:\code\C#\Лабы\six\csharp lab6\csharp lab6\obj\Debug\net5.0\csharp lab6.csproj.AssemblyReference.cache
+D:\code\C#\Лабы\six\csharp lab6\csharp lab6\obj\Debug\net5.0\csharp lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Лабы\six\csharp lab6\csharp lab6\obj\Debug\net5.0\csharp lab6.AssemblyInfoInputs.cache
+D:\code\C#\Лабы\six\csharp lab6\csharp lab6\obj\Debug\net5.0\csharp lab6.AssemblyInfo.cs
+D:\code\C#\Лабы\six\csharp lab6\csharp lab6\obj\Debug\net5.0\csharp lab6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.csproj.AssemblyReference.cache
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.AssemblyInfoInputs.cache
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.AssemblyInfo.cs
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.csproj.CoreCompileInputs.cache
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.exe
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.deps.json
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.runtimeconfig.json
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.runtimeconfig.dev.json
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.dll
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\ref\Trees.dll
+D:\code\C#\Лабы\six\csharp lab6\Trees\bin\Debug\net5.0\Trees.pdb
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.dll
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\ref\Trees.dll
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.pdb
+D:\code\C#\Лабы\six\csharp lab6\Trees\obj\Debug\net5.0\Trees.genruntimeconfig.cache
