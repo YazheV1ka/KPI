@@ -1,3 +1,0 @@
-﻿  с++ op8.cpp
-D:\code\Лабы\ОП\8\с++ op8\с++ op8\с++ op8\с++ op8.cpp(14,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  с++ op8.vcxproj -> D:\code\Лабы\ОП\8\с++ op8\с++ op8\Debug\с++ op8.exe
