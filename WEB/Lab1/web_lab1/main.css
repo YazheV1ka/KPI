@@ -1,0 +1,81 @@
+body{
+    display: grid;
+    grid-template-columns: 2fr 50px 1fr;
+    height: 100vh;
+    margin: 0;
+}
+main{
+    grid-column: 1;
+    display: flex;
+    flex-direction: column;
+}
+.side-bar{
+    grid-column: 3;
+    background-color: khaki;
+
+}
+.header{
+    grid-area: header;
+    position: relative;
+    background-color: black;
+    color: white;
+    float: left;
+    padding: 5px 5px;
+    font-size: 20px;
+
+}
+footer{
+    height: 20%;
+    background-color: peachpuff;
+    margin-top: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 20px;
+
+    align-items: center;
+}
+.main-content{
+    flex: 1;
+    background-color: cornflowerblue;
+}
+.two{
+    height: 80%;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+.five{
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    background-color: yellowgreen;
+    font-size: 15px;
+}
+.menu-link{
+    display: inline;
+    margin: 20px;
+}
+.menu-bar{
+    display: flex;
+    list-style-type: none;
+    height: 20px;
+}
+.menu-fields img {
+    grid-area: header;
+    height: 50px;
+    margin-top: -30%;
+    position: inherit;
+}
+
+.X{
+    position: absolute;
+    right: 100px;
+    top: 1px;
+    font-size: 14px;
+}
+
+.Y{
+    position: absolute;
+    left: 60px;
+    font-size: 20px;
+}
